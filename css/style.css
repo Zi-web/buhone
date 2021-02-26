@@ -575,7 +575,7 @@ template {
   transition: linear 0.3s;
 }
 .nav-links a:hover {
-  color: #EC3F34;
+  color: #005fa3;
 }
 .burger {
   display: none;
